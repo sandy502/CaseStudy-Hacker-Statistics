@@ -1,8 +1,8 @@
 # CaseStudy-Hacker-Statistics
 
 ## 1. Load in the Data
-- The code imports packages you used in Intermediate Python: NumPy, pandas, and Matplotlib. 
-- The code also imports data you used in the course as DataFrames using the pandas [`read_csv()`](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) function.
+- The code imports packages used in Intermediate Python: NumPy, pandas, and Matplotlib. 
+- The code also imports data used in the course as DataFrames using the pandas [`read_csv()`](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html) function.
 
 ## challenges:
 
